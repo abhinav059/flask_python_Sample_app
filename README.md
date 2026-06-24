@@ -161,4 +161,3 @@ Successfully containerized and ran a real Flask application using Docker. The ap
 - SQLite
 ```
 
----
