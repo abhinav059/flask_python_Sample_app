@@ -17,14 +17,13 @@ The specific app lives at: `examples/tutorial`
 
 ## Project Structure
 
-```
 flask/
 └── examples/
     └── tutorial/        ← worked inside here
         ├── flaskr/
         ├── Dockerfile   ← created this
         └── ...
-```
+
 
 ---
 
