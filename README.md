@@ -162,5 +162,3 @@ Successfully containerized and ran a real Flask application using Docker. The ap
 ```
 
 ---
-
-Clean, tells the story, explains the *why* behind every decision, and the problems section reads like something you actually went through — not a dry checklist. Paste this directly into your `README.md`.
